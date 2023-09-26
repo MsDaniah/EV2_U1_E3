@@ -1,0 +1,8 @@
+.cuarto {
+    color: green;
+    text-decoration: none;
+}
+
+.cuarto:hover {
+    color: red;
+}
